@@ -20,7 +20,6 @@
 - [Key Features](#-key-features)
 - [Architecture](#️-architecture)
 - [Tech Stack](#️-tech-stack)
-- [Getting Started](#-getting-started)
 - [User Roles & Workflows](#-user-roles--workflows)
 - [API Integrations](#-api-integrations)
 - [Database Schema](#️-database-schema)
