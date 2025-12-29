@@ -18,17 +18,17 @@
 
 - [Overview](#-overview)
 - [Key Features](#-key-features)
-- [Architecture](#-architecture)
-- [Tech Stack](#-tech-stack)
+- [Architecture](#️-architecture)
+- [Tech Stack](#️-tech-stack)
 - [Getting Started](#-getting-started)
 - [User Roles & Workflows](#-user-roles--workflows)
 - [API Integrations](#-api-integrations)
-- [Database Schema](#-database-schema)
-- [Scalability & Infrastructure](#-Scalability-&-Infrastructure)
+- [Database Schema](#️-database-schema)
+- [Scalability & Infrastructure](#-scalability--infrastructure)
 - [Deployment](#-deployment)
-- [Research & Market Analysis](#-Research-&-Market-Analysis)
-- [Business Viability & Revenue Model](#-Business-Viability-&-Revenue-Model)
-- [Team Contributions](#-Team-Contributions)
+- [Research & Market Analysis](#-research--market-analysis)
+- [Business Viability & Revenue Model](#-business-viability--revenue-model)
+- [Team Contributions](#-team-contributions)
 
 
 ---
